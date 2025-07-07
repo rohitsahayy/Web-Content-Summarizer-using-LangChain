@@ -23,7 +23,7 @@ This Streamlit app allows users to input a **YouTube or website URL** and get a 
 ## ▶️ How to Run Locally
 
 ```bash
-git clone https://github.com/rohitsahayy/yt-web-summarizer.git
+git clone https://github.com/rohitsahayy/Web-Content-Summarizer-using-LangChain.git
 cd yt-web-summarizer
 pip install -r requirements.txt
 streamlit run app.py
